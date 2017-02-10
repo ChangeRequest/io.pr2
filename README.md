@@ -1,5 +1,7 @@
 IO. Practice Task 2
 ===============
+
+[![Join the chat at https://gitter.im/changerequest/io.pr2](https://badges.gitter.im/changerequest/io.pr2.svg)](https://gitter.im/changerequest/io.pr2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 1\. Json Output Stream
 ---------------
 
